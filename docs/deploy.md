@@ -1,9 +1,13 @@
 #### WBNB
 
-- 0x4200000000000000000000000000000000000006
+- WBNB: 0x4200000000000000000000000000000000000006
+
 ```shell
  name     = "Wrapped Ether";
  symbol   = "WETH";
+ # 或者是下面的：
+ name     = "Wrapped BNB";
+ symbol   = "WBNB";
 ```
 
 #### Factory
