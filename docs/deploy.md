@@ -17,3 +17,7 @@
 #### Router
 
 - Router: 0x338bcc4efd3ca000d123d7352b362fc6d5b3d829
+
+#### ERC20
+
+- USDT: 0x83700f69B0173ebB46fDAd89A4b27eB7ef171118
