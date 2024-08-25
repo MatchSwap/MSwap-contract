@@ -695,7 +695,7 @@ library MSwapLibrary {
             hex'ff',
             factory,
             keccak256(abi.encodePacked(token0, token1)),
-            hex'32c26bd70ba438539c5a5bf79114c634822021bef9c0ea35fe1d9842a36bd662' // init code hash
+            hex'b06a53282545057904f1d0a6befc49e36e2ee17c1862b6835834e6cfc68eb65f' // init code hash
         ))));
     }
 
